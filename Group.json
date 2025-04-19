@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "BIGBANG",
+      "debut_date": "2006-08-19",
+      "members": ["G-Dragon", "T.O.P", "Taeyang", "Daesung"],
+      "representative_songs": ["Lies", "Haru Haru", "Fantastic Baby", "Bang Bang Bang"],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BIGBANG_logo.png",
+      "description": "BIGBANG 是韓國 YG 娛樂於 2006 年推出的男子音樂團體，由 G-Dragon、T.O.P、太陽、大聲和勝利（已退團）組成。BIGBANG 被譽為『K-POP 的國王』，以強烈的自創作風格和舞台魅力聞名。代表作包括《Lies》、《Haru Haru》、《Bang Bang Bang》等。他們不僅在韓國創下無數音樂紀錄，也在全球享有極高知名度，並多次舉辦世界巡演。BIGBANG 影響了後輩無數，為 K-POP 樹立了新的標竿。"
+    },
+    {
+      "name": "SECHSKIES",
+      "debut_date": "1997-04-15",
+      "members": ["Eun Ji-won", "Lee Jae-jin", "Kim Jae-duc", "Jang Su-won"],
+      "representative_songs": ["Couple", "Road Fighter", "Com'Back", "Three Words"],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/SECHSKIES_logo.png",
+      "description": "SECHSKIES 是韓國第一代偶像團體之一，最初由 DSP 媒體於 1997 年推出，2016 年透過綜藝節目《無限挑戰》重組並加入 YG 娛樂。成員包括殷志源、李宰鎮、金在德、姜成勳（已退團）、張水院與高志溶。他們以經典歌曲如《Couple》、《Road Fighter》等受到 90 年代粉絲喜愛。重組後發表了新專輯並展開演唱會活動，成為跨世代支持的傳奇偶像團體。"
+    },
+    {
+      "name": "WINNER",
+      "debut_date": "2014-08-17",
+      "members": ["Kang Seung-yoon", "Kim Jin-woo", "Song Min-ho", "Lee Seung-hoon"],
+      "representative_songs": ["Empty", "Really Really", "Millions", "Everyday"],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/WINNER_logo.png",
+      "description": "WINNER 是由 YG 娛樂透過選秀節目《WIN: Who Is Next》於 2014 年推出的男子團體，原始成員為姜昇潤、李昇勳、宋旻浩、金秦禹與南太鉉（已退團）。出道曲《Empty》一舉奪得各大音樂榜冠軍，展現強大音樂製作與演唱實力。WINNER 擅長抒情與節奏兼備的風格，代表作還包括《Really Really》、《Millions》、《Everyday》等。他們也在亞洲及海外展開多場演唱會，展現穩定人氣。"
+    },
+    {
+      "name": "TREASURE",
+      "debut_date": "2020-08-07",
+      "members": ["Choi Hyun-suk", "Jihoon", "Yoshi", "Junkyu", "Yoon Jae-hyuk", "Asahi", "Doyoung", "Haruto", "Park Jeong-woo", "So Jung-hwan"],
+      "representative_songs": ["BOY", "I LOVE YOU", "JIKJIN", "HELLO"],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TREASURE_logo.png",
+      "description": "TREASURE 是 YG 娛樂於 2020 年推出的第四代男子團體，通過選秀節目《YG TREASURE BOX》誕生，最初為 12 名成員組成，目前為 10 名。TREASURE 結合強勁舞蹈、青春形象與正能量風格，深受新世代粉絲喜愛。出道曲《BOY》展現強烈動感，隨後《I LOVE YOU》、《JIKJIN》、《HELLO》等曲也深受歡迎。他們積極拓展國際市場，是 YG 主力培養的新世代代表團體。"
+    }
+  ]
+}
