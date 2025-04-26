@@ -1,0 +1,164 @@
+{
+  "store": "可不可熟成紅茶",
+  "categories": [
+    {
+      "name": "熟成紅茶",
+      "items": [
+        {
+          "name": "熟成紅茶",
+          "price": 30,
+          "description": "選用斯里蘭卡紅茶低溫熟成，展現醇厚茶韻，回甘不澀。",
+          "recommended_sweetness": "無糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/熟成紅茶.jpg"
+        },
+        {
+          "name": "白玉熟成紅茶",
+          "price": 45,
+          "description": "經典熟成紅茶加入手工熬煮白玉珍珠，Q彈口感更添層次。",
+          "recommended_sweetness": "微糖",
+          "recommended_ice": "少冰",
+          "recommended_add_ons": ["白玉"],
+          "imageUrl": "https://example.com/images/白玉熟成紅茶.jpg"
+        }
+      ]
+    },
+    {
+      "name": "經典茶飲",
+      "items": [
+        {
+          "name": "麗春紅茶",
+          "price": 30,
+          "description": "帶花果香氣的紅茶基底，茶香清揚，口感圓潤順口。",
+          "recommended_sweetness": "無糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/麗春紅茶.jpg"
+        },
+        {
+          "name": "春芽綠茶",
+          "price": 30,
+          "description": "選用嫩芽綠茶製成，茶香淡雅，入口清新自然。",
+          "recommended_sweetness": "微糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/春芽綠茶.jpg"
+        },
+        {
+          "name": "雪藏紅茶",
+          "price": 35,
+          "description": "冷泡方式釋放茶韻，清涼順口，夏季必備消暑選擇。",
+          "recommended_sweetness": "微糖",
+          "recommended_ice": "少冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/雪藏紅茶.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鮮奶茶",
+      "items": [
+        {
+          "name": "熟成紅茶拿鐵",
+          "price": 55,
+          "description": "熟成紅茶融合濃醇鮮奶，茶香與奶香完美平衡。",
+          "recommended_sweetness": "半糖",
+          "recommended_ice": "少冰",
+          "recommended_add_ons": ["白玉", "珍珠"],
+          "imageUrl": "https://example.com/images/熟成紅茶拿鐵.jpg"
+        },
+        {
+          "name": "春芽綠茶拿鐵",
+          "price": 55,
+          "description": "春芽綠茶搭配香醇鮮奶，綠茶清香與奶味相互融合。",
+          "recommended_sweetness": "半糖",
+          "recommended_ice": "少冰",
+          "recommended_add_ons": ["椰果"],
+          "imageUrl": "https://example.com/images/春芽綠茶拿鐵.jpg"
+        }
+      ]
+    },
+    {
+      "name": "特調飲品",
+      "items": [
+        {
+          "name": "胭脂紅茶",
+          "price": 35,
+          "description": "紅茶中加入莓果香氣，果香四溢、層次豐富。",
+          "recommended_sweetness": "少糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/胭脂紅茶.jpg"
+        },
+        {
+          "name": "雲朵熟成紅茶",
+          "price": 50,
+          "description": "熟成紅茶搭配濃郁奶蓋，綿密口感如雲朵般柔滑。",
+          "recommended_sweetness": "微糖",
+          "recommended_ice": "少冰",
+          "recommended_add_ons": ["寒天"],
+          "imageUrl": "https://example.com/images/雲朵熟成紅茶.jpg"
+        }
+      ]
+    },
+    {
+      "name": "氣泡飲",
+      "items": [
+        {
+          "name": "檸檬氣泡紅",
+          "price": 55,
+          "description": "檸檬原汁與紅茶氣泡水交織，酸甜清爽，口感沁涼。",
+          "recommended_sweetness": "無糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/檸檬氣泡紅.jpg"
+        },
+        {
+          "name": "白桃氣泡綠",
+          "price": 55,
+          "description": "白桃果香搭配綠茶與氣泡水，清新又帶甜香餘韻。",
+          "recommended_sweetness": "少糖",
+          "recommended_ice": "正常冰",
+          "recommended_add_ons": [],
+          "imageUrl": "https://example.com/images/白桃氣泡綠.jpg"
+        }
+      ]
+    }
+  ],
+  "options": {
+    "sweetness": [
+      "正常糖",
+      "少糖",
+      "半糖",
+      "微糖",
+      "無糖"
+    ],
+    "ice": [
+      "正常冰",
+      "少冰",
+      "微冰",
+      "去冰",
+      "常溫",
+      "熱飲"
+    ],
+    "add_ons": [
+      {
+        "name": "白玉",
+        "price": 15
+      },
+      {
+        "name": "珍珠",
+        "price": 10
+      },
+      {
+        "name": "椰果",
+        "price": 10
+      },
+      {
+        "name": "寒天",
+        "price": 10
+      }
+    ]
+  }
+}
